@@ -16,7 +16,7 @@ h1 {
 h2 {
     font-size: 28px;
     color: black;
-    font-family: Georgia, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 p,li {
     font-size: 18px;
