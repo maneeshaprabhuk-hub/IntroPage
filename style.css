@@ -14,9 +14,9 @@ h1 {
     color: #800000;
 }
 h2 {
-    font-family: Georgia, serif;
     font-size: 28px;
     color: black;
+    font-family: Georgia, serif;
 }
 p,li {
     font-size: 18px;
