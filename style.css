@@ -32,3 +32,8 @@ img {
     width: 200px;
     border-radius: 10px;
 }
+
+.box:hover {
+    transform: scale(1.03)
+    transition: 0.3s;
+}
